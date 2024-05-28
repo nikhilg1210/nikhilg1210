@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilg1210
+- 👋 Hi, I’m Nikhil Garg
 - 👀 I’m currently working as Data scientist at Bloktrek 
 - 🌱 I have done Post Graduate Diploma in Business Analytics from IIM CALCUTTA + IIT Kharagpur + ISI kolkata 
 - 💞️ I’m looking to collaborate on 
