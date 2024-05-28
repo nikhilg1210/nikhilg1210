@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikhilg1210
-- 👀 I’m  Data scientist
--  currently working as data scientist intern at bloktrek 
-- 🌱 I’m currently learning Data science
+- 👀 I’m currently working as Data scientist at Bloktrek 
+- 🌱 I have done Post Graduate Diploma in Business Analytics from IIM CALCUTTA + IIT Kharagpur + ISI kolkata 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
